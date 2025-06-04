@@ -1,10 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm passionate about coding, open-source, and learning new technologies. Here's a little about me:
+Hello! I'm a first-year student at Keio University SFC's Faculty of Environment and Information Studies. I enjoy creating games with **Unity** and **Blender**, and I'm currently developing a generalist robot that integrates multiple modalities and a physical body using **Python** and **C#**. I'm also part of the **Sociable Robotics Lab** at Keio SFC.
 
-- 🌱 I’m currently learning and exploring new tools and frameworks.
-- 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 🎮 Building games with Unity and Blender
+- 🤖 Working on a multi-modal robot
+- 🏫 B1 student at Keio SFC
+- 🧑‍💻 Sociable Robotics Lab member
 
 ## GitHub Stats 📊
 
