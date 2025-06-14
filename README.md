@@ -1,23 +1,26 @@
-# Welcome to My GitHub Profile! 👋
+# 私のGitHubプロフィールへようこそ！ 👋
 
-Hi there! I'm passionate about coding, open-source, and learning new technologies. Here's a little about me:
+こんにちは！私は慶應義塾大学SFC環境情報学部の1年生です。UnityとBlenderを使ったゲーム制作を楽しみ、現在はPythonやC#を用いたマルチモーダルな身体を持つ汎用ロボットの開発に取り組んでいます。SFCの**Sociable Robotics Lab**に所属しています。
 
-- 🌱 I’m currently learning and exploring new tools and frameworks.
-- 💬 Ask me about anything tech-related!
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 🎮 UnityとBlenderでゲーム制作
+- 🤖 マルチモーダルロボット開発
+- 🏫 慶應SFC B1生
+- 🧑‍💻 Sociable Robotics Lab所属
 
-## GitHub Stats 📊
+## GitHub統計 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=FFFFFF)
 
-## Streak Stats 🔥
+## ストリーク統計 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com?user=forgottencow&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=forgottencow&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF&hide_border=true)
 
-## Top Languages 🛠️
+## 主な使用言語 🛠️
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=FFFFFF)
+
+![猫](https://cataas.com/cat)
 
 ---
 
-Feel free to explore my repositories and connect with me!
+ぜひリポジトリを覗いて、気軽に交流してください！
