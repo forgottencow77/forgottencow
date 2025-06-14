@@ -7,6 +7,7 @@
 - 🏫 慶應SFC B1生
 - 🧑‍💻 Sociable Robotics Lab所属
 
+
 ## GitHub統計 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=FFFFFF)
