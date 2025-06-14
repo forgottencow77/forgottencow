@@ -1,24 +1,27 @@
-# Welcome to My GitHub Profile! 👋
+# 私のGitHubプロフィールへようこそ！ 👋
 
-Hello! I'm a first-year student at Keio University SFC's Faculty of Environment and Information Studies. I enjoy creating games with **Unity** and **Blender**, and I'm currently developing a generalist robot that integrates multiple modalities and a physical body using **Python** and **C#**. I'm also part of the **Sociable Robotics Lab** at Keio SFC.
+こんにちは！私は慶應義塾大学SFC環境情報学部の1年生です。UnityとBlenderを使ったゲーム制作を楽しみ、現在はPythonやC#を用いたマルチモーダルな身体を持つ汎用ロボットの開発に取り組んでいます。SFCの**Sociable Robotics Lab**に所属しています。
 
-- 🎮 Building games with Unity and Blender
-- 🤖 Working on a multi-modal robot
-- 🏫 B1 student at Keio SFC
-- 🧑‍💻 Sociable Robotics Lab member
+- 🎮 UnityとBlenderでゲーム制作
+- 🤖 マルチモーダルロボット開発
+- 🏫 慶應SFC B1生
+- 🧑‍💻 Sociable Robotics Lab所属
 
-## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow&show_icons=true&theme=radical)
+## GitHub統計 📊
 
-## Streak Stats 🔥
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=FFFFFF)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=forgottencow&theme=radical&hide_border=true)
+## ストリーク統計 🔥
 
-## Top Languages 🛠️
+![GitHub Streak](https://streak-stats.demolab.com?user=forgottencow&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow&layout=compact&theme=radical)
+## 主な使用言語 🛠️
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=FFFFFF)
+
+![猫](https://cataas.com/cat)
 
 ---
 
-Feel free to explore my repositories and connect with me!
+ぜひリポジトリを覗いて、気軽に交流してください！
