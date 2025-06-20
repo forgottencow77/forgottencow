@@ -1,12 +1,30 @@
-# A Little About Me! 👋
-ForgottenCow77🐄
+# It's Me!👋  ForgottenCow🐄
 
-I'm a freshman studying at Keio University's Faculty of Environment and Information Studies.
+Freshman at Keio University's Faculty of Environment and Information Studies.  
+Also a member of the Sociable Robots Lab☺️.
 
-* 🎮 Making games with Unity and Blender
-* 🤖 Developing multimodal robots
-* 🏫 Freshman at Keio SFC
-* 🧑‍💻 Sociable Robotics Lab member
+I have a wide variety of skillsets!
+ - Read and write C# and Python code
+ - Creating games with Unity
+ - Creative tools: Blender, Adobe Photoshop, Adobe Premiere Pro
+ - Fusion360 for hardware design
+
+---
+
+## 🏆 Projects & Achievements
+
+- **IKIGAMI (in development):**  
+  Indie game project. *(Details coming soon)*
+
+- **CotoVerse App(BlendAI.co):**  
+  An app that lets you interact with 3D anime characters, each with unique models and voices.  
+  - Unity Development Team member  
+  - Led UI/UX design and new feature planning  
+  - Implemented local AI model inference using Unity Sentis
+
+
+---
+## 📈 My Future Visions
 
 ---
 
