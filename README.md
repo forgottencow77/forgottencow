@@ -19,9 +19,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow77&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=000000)
 
-## おまけの猫 🐾
+## ฅ^•ω•^ฅ 🐾
 
-| かわいい猫があなたを見ています |
+| Here's a random image of a cat^•ω•^ฅ |
 | :---------------------------: |
 | <img src="https://cataas.com/cat" width="250"/> |
 
