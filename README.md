@@ -1,6 +1,6 @@
 # A Little About Me! 👋
 
-Hey there! I'm a freshman studying at Keio University's Faculty of Environment and Information Studies (SFC). I love creating games with Unity and Blender, and right now, I'm diving into developing a **multimodal, embodied general-purpose robot** using Python and C#. I'm also part of the **Sociable Robotics Lab** at SFC.
+Hey there! I'm a freshman studying at Keio University's Faculty of Environment and Information Studies (SFC). I love creating games with Unity and Blender, and right now, I'm diving into developing a **general-purpose robot** using Python and C#. I'm also part of the **Sociable Robotics Lab** at SFC.
 
 * 🎮 Making games with Unity and Blender
 * 🤖 Developing multimodal robots
