@@ -12,11 +12,42 @@ I'm a freshman studying at Keio University's Faculty of Environment and Informat
 
 ## GitHub Stats 📊
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forgottencow77&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=000000&border_color=1E90FF&border_radius=10" width="360"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow77&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=000000&border_color=1E90FF&border_radius=10" width="360"/>
-</div>
+<table align="center">
+  <tr>
+    <!-- ① 総合 Stats -->
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=forgottencow77&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+        width="330"
+      />
+    </td>
+    <!-- ② Top Langs -->
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow77&layout=compact&theme=tokyonight&hide_border=true"
+        width="330"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- ③ Streak -->
+    <td>
+      <img
+        src="https://streak-stats.demolab.com/?user=forgottencow77&theme=tokyonight&hide_border=true"
+        width="330"
+      />
+    </td>
+    <!-- ④ Trophy（3種だけ） -->
+    <td>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=forgottencow77&theme=tokyonight&no-frame=true&row=1&column=3&title=Stars,Followers,Commits&margin-w=15&margin-h=15"
+        width="330"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
