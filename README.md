@@ -16,7 +16,10 @@ I have a wide variety of skillsets!
 - **IKIGAMI (in development):**  
   Indie game project. *(Details coming soon)*
 
-- **CotoVerse App:**  
+- **CotoVerse App**  
+  <a href="https://apps.apple.com/jp/app/cotoverse/id6740241627" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-%23007aff.svg?style=flat&logo=apple&logoColor=white" alt="App Store" height="20"/>
+  </a>  
   I was part of the team at BlendAI releasing the CotoVerse App.  
   This app lets you interact with 3D anime characters, each with unique models and voices.  
   - Unity Development Team member  
@@ -25,8 +28,13 @@ I have a wide variety of skillsets!
 
 
 
+
 ---
-## 📈 My Future Visions
+## 📈 My Future Visions (2025/06/21)
+
+~~My dream is to create a Kawaii waifu robot .~~  
+I aim to design both the hardware and software for General-purpose robots in the next era.  
+My research interests range from building novel AI architectures (such as VLA and world models) to hands-on hardware development.
 
 ---
 
