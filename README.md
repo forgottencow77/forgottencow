@@ -10,15 +10,15 @@
 
 ## GitHub統計 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=forgottencow77&show_icons=true&title_color=1E90FF&text_color=1E90FF&icon_color=1E90FF&bg_color=FFFFFF)
 
 ## ストリーク統計 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com?user=forgottencow&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=forgottencow77&background=FFFFFF&ring=1E90FF&fire=1E90FF&currStreakNum=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF&hide_border=true)
 
 ## 主な使用言語 🛠️
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=forgottencow77&layout=compact&title_color=1E90FF&text_color=1E90FF&bg_color=FFFFFF)
 
 ![猫](https://cataas.com/cat)
 
