@@ -16,11 +16,13 @@ I have a wide variety of skillsets!
 - **IKIGAMI (in development):**  
   Indie game project. *(Details coming soon)*
 
-- **CotoVerse App(BlendAI.co):**  
-  An app that lets you interact with 3D anime characters, each with unique models and voices.  
+- **CotoVerse App:**  
+  I was part of the team at BlendAI releasing the CotoVerse App.  
+  This app lets you interact with 3D anime characters, each with unique models and voices.  
   - Unity Development Team member  
   - Led UI/UX design and new feature planning  
   - Implemented local AI model inference using Unity Sentis
+
 
 
 ---
