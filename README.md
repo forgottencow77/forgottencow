@@ -1,4 +1,4 @@
-# It's Me!👋  ForgottenCow🐄
+# Howdy!👋  ForgottenCow🐄
 
 Freshman at Keio University's Faculty of Environment and Information Studies.  
 Also a member of the Sociable Robots Lab☺️.
